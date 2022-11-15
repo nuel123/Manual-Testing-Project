@@ -93,8 +93,18 @@ Step 3: Follow the best practices to make testing better.
     * Context Driven Testing: Perform testing as per the content of the given application.
     * Shift Left Testing: Start testing from the beginning of development itself instead of waiting for the stable build.
     * Exploratory Testing: Using expertise, perform Exploratory Testing apart from the normal execution of the Test Cases.
-    
-    
+    * End-to-End Flow Testing: Test the End-to-End scenario which involves multiple functionalities to simulate the end user flow.
+
+Defect Reporting Procedure
+--------------------------
+During the test execution:
+    * Any deviation from expected behavior by the application will be  noted. If it can't be reported as a defect, it will be reported as an observation/issue or posed as a question.
+    * Any usability issues will be reported.
+    * After discovery of a defect, it will be re-tested to verify reproductibility of the defect. Screenshots with steps to reproduce will be documented.
+    * At the end of the test execution each day, defects encountered will be sent along with the observations.
+Note:
+    * Defects will be documented in excel.
+    * Test scenarios and Test cases will be documented in an excel documnet.
     
     
 
