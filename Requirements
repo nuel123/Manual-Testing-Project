@@ -1,18 +1,57 @@
 Table of Contents
 -----------------
-*Overview
-*Scope
-  -Inclusions
-  -Test Environments
-  -Exclusion
-*Test Strategy
-*Defect Reporting Procedure
-*Roles/Responsibilities
-*Test Schedule
-*Test Deliverables
-*Pricing
-*Entry and Exit Criteria
-*Suspension and Resumption Criteria
-*Tools
-*Risks and Mitigations
-*Approvals
+* Overview
+* Scope
+    -Inclusions
+    -Test Environments
+    -Exclusion
+* Test Strategy
+* Defect Reporting Procedure
+* Roles/Responsibilities
+* Test Schedule
+* Test Deliverables
+* Pricing
+* Entry and Exit Criteria
+* Suspension and Resumption Criteria
+* Tools
+* Risks and Mitigations
+* Approvals
+
+Overview
+--------
+This document serves as a high level test planning document with details on the scope of the project, test strategy, test schedule and resource requirements, test deliverable, and schedule.
+
+Scope
+-----
+The scope of the project includes testing the following features of 'https://demo.opencart.com/' web application.
+
+Inclusions
+----------
+* Register
+* Login & Logout
+* Forgot Password
+* Search
+* Product Compare
+* Product Display Page
+* Add to Cart
+* Wish List
+* Shopping Cart
+* Currencies
+* Homepage
+* My Account Page
+* Order History Page
+* Downloads Page
+* Contact Us Page
+* Menu Options
+* Footer Options
+* Category Pages
+
+Test Environments
+-----------------
+* Windows 10 - Chrome, Firefox, and Edge
+* Mac OS - Safari Browser
+* Android Mobile OS - Chrome
+* iPhone Mobile OS - Safari
+
+Exclusions
+----------
