@@ -55,3 +55,48 @@ Test Environments
 
 Exclusions
 ----------
+* All other features except the ones mentioned under 'Inclusions'
+* Any third-party features or Payment gateways
+* Test Automation
+
+Test Strategy
+-------------
+Perform Functional testing of all the functionalities mentioned in the above Scope section.
+
+As part of Functional Testing, the following approach will be followed for Testing:
+
+Step 1: Creation of Test Scenarios and Test Cases for the different features in Scope.
+    * Several Test Designing Techniques will be applied while creating Test Cases.
+        - Equivalence Class Partition
+        - Boundary Value Analysis
+        - Decision Table Testing
+        - State Transition Testing
+        - Use Case Testing
+    * Use expertise in creating Test Cases by applying:
+        - Error Guessing
+        - Exploratory Testing
+    * Prioritising the Test Cases.
+    
+Step 2: The Testing Process upon receipt of Application to be Tested.
+    * Firstly, perform Smoke Testing to check whether the different and important functionalities of the application are working.
+    * Reject the build if Smoke Testing fails and wait for a stable build before performing in-depth testing of the application functionalities.
+    * Upon receipt of a stable build that passes Smoke Testing, perform in-depth testing using the Test Cases created.
+    * Multiple Test Resources will be testing the same application on multiple supported environments simultaneously.
+    * Report bugs in bug tracking tool and send the defects found on that day in a status end of day email.
+    * Perform the following tests as part of the entire testing:
+        - Smoke Testing and Sanity Testing
+        - Regression Testing and Re-Testing
+        - Usability Testing, Functionality and UI Testing.
+    * Repeat Test Cycles until a quality product is obtained.
+    
+Step 3: Follow the best practices to make testing better.
+    * Context Driven Testing: Perform testing as per the content of the given application.
+    * Shift Left Testing: Start testing from the beginning of development itself instead of waiting for the stable build.
+    * Exploratory Testing: Using expertise, perform Exploratory Testing apart from the normal execution of the Test Cases.
+    
+    
+    
+    
+
+
+
