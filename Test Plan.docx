@@ -145,7 +145,108 @@ Test Schedule
 |---------------------------------------------------------|
 
 
+Test Deliverables
+-----------------
+The following are to be delivered to the client:
 
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Deliverables      |       Description                                                                                                         | Target Completion Date |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Test Plan             | Details on the scope of the project, test strategy, test schedule, resource requirements, test deliverables, and schedule |           Date         |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Functional Test Cases | Test Cases created for the scope defined                                                                                  |           Date         |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Defect Reports        | Detailed description of defects defects identified along with screenshots and steps to reproduce on a daily basis         |            NA          |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Summary Reports       | - Summary Reports:                                                                                                        |           Date         |
+|                       |       * Bugs by bug #,                                                                                                    |                        |
+|                       |       * Bugs by Functional Area and                                                                                       |                        |
+|                       |       * Bugs by Priority.                                                                                                 |    
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+Pricing
+-------
+N/A
 
+Entry and Exit Criteria
+-----------------------
+Below are the Entry and Exit Criteria for each phase of the Software Testing Life Cycle (STLC):
 
+**Requirement Analysis**
+Entry Criteria:
+    * Once the testing team receives the requirement documents or details about the project.
+
+Exit Criteria:
+    * List of requirements are explored and understood by the testing team.
+    * Doubts are cleared.
+
+**Test Planning**
+Entry Criteria:
+    * Derive Testable Requirements from the given requirement documents or project details.
+    * Doubts are cleared.
+
+Exit Criteria:
+    * Test Plan Document (includes Test Strategy) is signed-off by client.
+    
+**Test Designing**
+Entry Criteria:
+    * Test Plan Document is signed-off by client.
+
+Exit Criteria:
+    * Test Scenarios and Test Cases Document are signed-off by client.
+
+**Test Execution**
+Entry Criteria:
+    * Test Scenarios and Test Cases Document are signed-off by client.
+    * Application is ready for testing.
+
+Exit Criteria:
+    * Test Case Reports, Defect Reportd are ready.
+
+**Test Closure**
+Entry Criteria:
+    * Test Case Reports, Defect Reportd are ready.
+
+Exit Criteria:
+    * Test Summary Reports.
+
+Suspension and Resumption Criteria
+----------------------------------
+Based on the client decision, the project will be suspended and resumed.
+Resources will be ramped up and down as per client needs.
+
+Tools
+-----
+The following are the list of tools that will be used in this project:
+    * XYZ Bug Tracking Tool.
+    * Mind map Tool.
+    * Snipping Screenshot Tool.
+    * Word and Excel Documents.
+
+Risks and Mitigations
+---------------------
+The following are the list of possible risks and the ways to mitigate them:
+    - Risk: Non-availability of a Resource.
+    - Mitigation: Backup resource planning.
+    
+    - Risk: Build URL is not working.
+    - Mitigation: Resources will not work on other tasks.
+    
+    - Risk: Less time for testing.
+    - Mitigation: Ramp up the resources based on the client needs dynamically.
+
+Approvals
+---------
+The team will send different types of documents for client approval. These are:
+    * Test Plan.
+    * Test Scenarios.
+    * Test Cases.
+    * Reports.
+
+Testing will only continue to next steps once these approvals are given.
+    
+    
+    
+    
+    
+    
