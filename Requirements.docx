@@ -106,7 +106,46 @@ Note:
     * Defects will be documented in excel.
     * Test scenarios and Test cases will be documented in an excel documnet.
     
-    
+Roles/Responsibilities
+----------------------
+|------------------------------------------------------------------------------------------------------------------|
+|   Name        |   Role                |                       Responsibilities                                   |
+|------------------------------------------------------------------------------------------------------------------|
+| Person A      | Test Manager          | - Escalating                                                             |
+|------------------------------------------------------------------------------------------------------------------|
+| Pesron B      | Test Lead             | - Create the test plan and get client signoffs                           |
+|               |                       | - Interact with the application, create, and execute test cases          |
+|               |                       | - Report defects                                                         |
+|               |                       | - Cordinate the test execution. Verify validity of defects being reported|
+|               |                       | - Submit daily issue updates and summary of defect reports to client     |
+|               |                       | - Attend meetings with client                                            |
+|------------------------------------------------------------------------------------------------------------------|
+| Person C      | Senior Test Engineer  | - Interact with the application                                          |
+|               |                       | - Create and execute test cases                                          |
+|               |                       | - Report defects                                                         |
+|------------------------------------------------------------------------------------------------------------------|
+|Person D       | Test Engineer         | - Interact with the application                                          |
+|               |                       | - Execute test cases                                                     |
+|               |                       | - Report defects                                                         |
+|------------------------------------------------------------------------------------------------------------------|
+
+
+Test Schedule
+-------------
+|---------------------------------------------------------|
+|                 Task            |     Duration          |
+|---------------------------------------------------------|
+| - Create the test plan          | Start Date - End Date |
+|---------------------------------------------------------|
+| - Create test cases             | Start Date - End Date |
+|---------------------------------------------------------|
+| - Execute test cases            | Start Date - End Date |
+|---------------------------------------------------------|
+| - Submission of summary reports |          Date         |
+|---------------------------------------------------------|
+
+
+
 
 
 
